@@ -13,5 +13,10 @@ public class Test1 {
         System.out.println("主干提交");
 
         System.out.println("猪肝提交by1");
+
+        System.out.println("commit");
+
+        System.out.println("commit2");
+        System.out.println("分支开发完成");
     }
 }
