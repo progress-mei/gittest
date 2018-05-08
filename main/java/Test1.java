@@ -8,6 +8,10 @@ public class Test1 {
 
         System.out.println("合并到主干");
 
+        System.out.println("提交 by1");
+
         System.out.println("主干提交");
+
+        System.out.println("猪肝提交by1");
     }
 }
