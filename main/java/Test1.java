@@ -13,5 +13,6 @@ public class Test1 {
         System.out.println("commit");
 
         System.out.println("commit2");
+        System.out.println("分支开发完成");
     }
 }
