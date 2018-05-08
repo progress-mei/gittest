@@ -7,5 +7,7 @@ public class Test1 {
         System.out.println("创建第三部  by 2");
 
         System.out.println("合并到主干");
+
+        System.out.println("主干提交");
     }
 }
