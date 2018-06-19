@@ -19,4 +19,8 @@ public class Test1 {
         System.out.println("commit2");
         System.out.println("分支开发完成");
     }
+
+    public void test() {
+        System.out.println("sss");
+    }
 }
