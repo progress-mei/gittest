@@ -31,4 +31,8 @@ public class Test1 {
     public void test3() {
         System.out.println("aaa");
     }
+
+    public void test4() {
+
+    }
 }
