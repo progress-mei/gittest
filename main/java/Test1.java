@@ -43,4 +43,12 @@ public class Test1 {
     public void test5() {
 
     }
+
+    public void test6() {
+
+    }
+
+    public void test7() {
+
+    }
 }
