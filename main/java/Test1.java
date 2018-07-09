@@ -28,6 +28,10 @@ public class Test1 {
         System.out.println("ddd");
     }
 
+    public void test22() {
+
+    }
+
     public void test3() {
         System.out.println("aaa");
     }
