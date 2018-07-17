@@ -11,4 +11,8 @@ public class Test4 {
     public void test2() {
         System.out.println("");
     }
+
+    public void test3() {
+        System.out.println("");
+    }
 }
