@@ -20,7 +20,7 @@ public class Test4 {
         System.out.println("");
     }
 
-    public void test5() {
+    public void test6() {
         System.out.println("");
     }
 }
