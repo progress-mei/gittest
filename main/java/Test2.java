@@ -7,7 +7,5 @@ public class Test2 {
         System.out.println("hahah112");
 
         System.out.println("ddssd");
-
-        System.out.println("sssssss");
     }
 }
