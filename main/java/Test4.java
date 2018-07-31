@@ -29,4 +29,9 @@ public class Test4 {
     public void test8() {
         System.out.println("");
     }
+
+    public void test9() {
+        System.out.println("");
+    }
+
 }
