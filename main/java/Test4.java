@@ -26,4 +26,7 @@ public class Test4 {
     public void test7() {
         System.out.println("");
     }
+    public void test8() {
+        System.out.println("");
+    }
 }
