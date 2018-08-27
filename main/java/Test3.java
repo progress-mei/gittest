@@ -25,4 +25,8 @@ public class Test3 {
     public void test5() {
 
     }
+
+    public void test6() {
+
+    }
 }
