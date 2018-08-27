@@ -33,4 +33,8 @@ public class Test3 {
     public void test7() {
 
     }
+
+    public void test8() {
+
+    }
 }
