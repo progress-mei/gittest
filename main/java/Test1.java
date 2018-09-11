@@ -55,4 +55,8 @@ public class Test1 {
     public void test7() {
 
     }
+
+    public void test8() {
+
+    }
 }
