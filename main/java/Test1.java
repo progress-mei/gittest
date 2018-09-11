@@ -59,4 +59,8 @@ public class Test1 {
     public void test8() {
 
     }
+
+    public void test9() {
+
+    }
 }
